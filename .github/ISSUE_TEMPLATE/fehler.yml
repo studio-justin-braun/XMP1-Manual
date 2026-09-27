@@ -1,0 +1,38 @@
+name: Fehler im Handbuch
+description: Fehlende Inhalte, fehlerhafte Links oder Darstellungsprobleme melden.
+title: '[Handbuch] '
+body:
+  - type: dropdown
+    id: format
+    attributes:
+      label: Betroffene Ausgabe
+      options:
+        - HTML
+        - PDF
+        - Beide Ausgaben
+        - Build oder Repository
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Abschnitt, Thema oder PDF-Seite
+      placeholder: 'Zum Beispiel: 3.7.1 Normale Konfiguration, PDF-Seite 50'
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Was stimmt nicht?
+      description: Bitte Ist-Zustand, erwartetes Ergebnis und Schritte zum Nachstellen beschreiben.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser oder PDF-Programm und Betriebssystem
+  - type: textarea
+    id: reference
+    attributes:
+      label: Beleg oder Screenshot
+      description: Bei inhaltlichen Korrekturen möglichst die Originalstelle oder eine belastbare Quelle nennen.

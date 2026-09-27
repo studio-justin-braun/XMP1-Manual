@@ -1,0 +1,20 @@
+{
+  "search": true,
+  "search_shows_results": true,
+  "marked_results": true,
+  "result_navigation": true,
+  "umlaut_search": true,
+  "multiword_search": true,
+  "no_results": true,
+  "clear_search": true,
+  "keyword_index": true,
+  "index_navigation": true,
+  "contents": true,
+  "original_link": true,
+  "lightbox": true,
+  "close_image": true,
+  "mobile_menu": true,
+  "home": true,
+  "all_images": true,
+  "no_horizontal_overflow": true
+}

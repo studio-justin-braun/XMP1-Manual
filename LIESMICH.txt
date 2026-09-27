@@ -1,0 +1,47 @@
+MSP XMP1 - VOLLSTÄNDIGES BEDIENHANDBUCH
+=====================================
+
+HTML-HANDBUCH ÖFFNEN
+Handbuch/index.html per Doppelklick in Edge, Chrome oder Firefox öffnen.
+Eine Installation, ein Webserver oder eine Internetverbindung sind nicht nötig.
+Texte, Bilder, Formatierung und Suche sind in dieser HTML-Datei eingebettet.
+
+PDF-HANDBUCH ÖFFNEN
+pdf/XMP1_Handbuch.pdf öffnen. Die Ausgabe umfasst 132 Seiten mit anklickbarem
+Inhaltsverzeichnis, Lesezeichen, internen Verweisen und Stichwortregister.
+Die normale PDF-Textsuche funktioniert mit Strg + F.
+
+BEDIENUNG DER HTML-AUSGABE
+- Suche links: durch alle Texte, Themenüberschriften und Originalstichwörter.
+- Mehrere Suchwörter werden gemeinsam gesucht; Groß-/Kleinschreibung wird ignoriert.
+- Umlaute können auch ohne Akzent gesucht werden, z. B. Taktprioritaten.
+- Strg + K setzt den Cursor ins Suchfeld. × löscht die Suche.
+- Das Register „Stichwörter“ enthält die Suchbegriffe der Originalhilfe.
+- Im schmalen Fenster öffnet „Inhalt“ das Menü mit Suche und Navigation.
+- Ein Klick auf eine Abbildung öffnet die große Bildansicht.
+- Blaue Verweise führen zum zugehörigen Thema; Zurück im Browser funktioniert.
+
+INHALT
+7 Hauptkapitel, 244 Themen, 243 originale interne Verweise, 125 Abbildungen,
+17 zusammenhängende Tabellen mit 197 Zeilen und 1.106 Zellen sowie
+276 Einträge im originalen Stichwortregister.
+
+Die Reihenfolge und die Hierarchie entsprechen dem Original-Inhaltsverzeichnis.
+Alle Originaltexte wurden übernommen, nicht fachlich aktualisiert.
+Die Quelldatei enthält keine separaten Audio- oder Videoressourcen.
+
+DATEIEN IM PAKET
+Handbuch/index.html           Offline-Handbuch mit Suche und Bildern
+Handbuch/medien/              Alle Bilder zusätzlich als PNG
+pdf/XMP1_Handbuch.pdf         Druck- und Leseausgabe
+Quellen/XMP1.HLP              Unveränderte Ausgangsdatei
+Quellen/dekompiliert/         RTF, Projektdatei, Phrasen und Original-BMP/WMF
+Pruefbericht.md               Nachweise zu Inhalt, Reihenfolge und Konvertierung
+Pruefung/                    Maschinelle Ergebnisse der abschließenden Prüfung
+
+ZIP zuerst vollständig entpacken. Den relativen Aufbau der Ordner beibehalten,
+damit der PDF-Link im HTML-Handbuch funktioniert. Die index.html kann auch allein
+weitergegeben werden; nur der separate PDF-Link benötigt dann die PDF-Datei.
+
+Originalvermerk aus der HLP: ® PET2BK
+Digitale Neuausgabe: 27. September 2026
